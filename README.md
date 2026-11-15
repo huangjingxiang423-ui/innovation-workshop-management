@@ -39,4 +39,4 @@ docker compose exec app php bin/leantime workshop:install
 
 ## 上游项目和许可
 
-核心基于 [Leantime](https://github.com/Leantime/leantime) 3.12.0，保留其 GPL-3.0 许可证，见 [LICENSE](LICENSE)。协作适配使用 Nextcloud；试用服务涉及 Frappe HR 和 LibreBooking，各项目的许可证和部署要求分别适用。界面内第三方资源说明见 `overlay/public/workshop-assets/THIRD_PARTY_NOTICES.md`。
+核心基于 [Leantime](https://github.com/Leantime/leantime) 3.12.0，保留其 AGPL-3.0 许可证，见 [LICENSE](LICENSE)。协作适配使用 Nextcloud；试用服务涉及 Frappe HR 和 LibreBooking，各项目的许可证和部署要求分别适用。界面内第三方资源说明见 `overlay/public/workshop-assets/THIRD_PARTY_NOTICES.md`。
